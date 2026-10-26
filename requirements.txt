@@ -1,0 +1,15 @@
+requests
+pandas
+imbalanced-learn
+seaborn
+matplotlib
+numpy
+scikit-learn
+xgboost
+ipython
+streamlit
+sounddevice
+scipy
+plotly
+librosa
+joblib
